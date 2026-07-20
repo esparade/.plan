@@ -4,9 +4,9 @@
 >  
 > _From the book "Masters of Doom"_
 
-after years of finding myself falling for the 'programmer blog' setup and configuration trap (and failing to archiving some kind of resemblance of writting consistency), i started to believe that for a blog-log-diary of sorts, you can't go lower than a pure, naked, text file where the actual effort to write and publish an entry is already at the lowest possible point, so, as a previolusly tested and proved system, i decided that this is also my choice
+after years of finding myself falling for the 'programmer blog' setup and configuration trap (and failing to archiving some kind of resemblance of writting consistency), i started to believe that for a blog-log-diary of sorts, you can't go lower than a pure, naked, text file where the actual effort to write and publish an entry is already at the lowest possible point, so, as a previously [tested-and-proved system](https://garbagecollected.org/2017/10/24/the-carmack-plan/), i decided that this is also my choice
 
-the only change to the original is that mine is a write-once file log, if something is mentioned or marked as a planned feature, search for completion / abandoned on later dates files with you favourite search contraption
+the only change to [the carmack original](https://github.com/ESWAT/john-carmack-plan-archive) is that mine is a write-once file log, if something is mentioned or marked as a planned feature, search for completion / abandoned on later date files with you favourite search contraption
 
 | **Structure** |                                       |
 |:--------------|:--------------------------------------|
